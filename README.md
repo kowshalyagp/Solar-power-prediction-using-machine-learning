@@ -27,7 +27,7 @@ Contains 10 rows and 7 columns (6 features + 1 target).
 Matches the dataset used in the Python code for Week 1.
 How to Run
 1. Clone the repository:
-git clone https://github.com/kowshalyagp/Photonix.git
+git clone https://github.com/kowshalyagp/Solar-power-prediction-using-machine-learning
 2. Install dependencies:
 pip install pandas scikit-learn
 3. Run the Python script or Colab notebook:
