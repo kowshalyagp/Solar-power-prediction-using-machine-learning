@@ -1,4 +1,4 @@
-Photonix – Solar Power Prediction Project(Predicting solar panel power output using environmental data)
+Solar Power Prediction Project(Predicting solar panel power output using environmental data)
 
 Domain: AIML
 Topic: Sustainable Energy & Efficiency
