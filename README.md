@@ -31,7 +31,7 @@ git clone https://github.com/kowshalyagp/Solar-power-prediction-using-machine-le
 2. Install dependencies:
 pip install pandas scikit-learn
 3. Run the Python script or Colab notebook:
-python photonix_week1.py
+python solar power prediction using machine learning_week1.py
 4. The script will:
 Display sample dataset
 Show dataset info and summary statistics
