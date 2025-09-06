@@ -37,7 +37,7 @@ Display sample dataset
 Show dataset info and summary statistics
 Check for missing values
 Split data into train and test sets
-Save the dataset as photonix_dataset.csv
+Save the dataset as solar power prediction using machine learning_dataset.csv
 Future Work
 Add machine learning models to predict solar panel output.
 Perform model evaluation and optimization.
